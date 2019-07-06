@@ -1,0 +1,6 @@
+# Mosquitto-PHP
+
+Original implementation by Michael Maclean
+onPublish callback from Github user @acrazing
+PHP 7 support by Sara Golemon
+
