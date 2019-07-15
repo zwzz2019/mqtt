@@ -14,3 +14,8 @@ cd build
 cmake ..
 make
 make install
+
+
+
+编译数据库操作链接库的方法
+gcc -I/usr/include/mysql ***.c -L/usr/lib/mysql -lmysqlclient -o ***
